@@ -1,5 +1,5 @@
 # CalculaterForYandex
-<h1 align="center">Привет, я <p style="color:blue">Илья</p> 
+<h1 align="center">Привет, я Илья 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 это финальная задача 2 спринта для яндекса
 
