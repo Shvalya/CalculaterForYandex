@@ -9,4 +9,4 @@
 
 в вкладке настройка калькулятора вы можете настроись скорость выполнения примеров
 
-<img scr="D:\User\Pictures\Untitled-2024-02-18-2223.png">
+<img scr="D:\User\Pictures\Untitled-2024-02-18-2223.png" width="720" height="1080">
