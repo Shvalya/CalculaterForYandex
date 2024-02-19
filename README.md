@@ -9,4 +9,4 @@
 
 в вкладке настройка калькулятора вы можете настроись скорость выполнения примеров
 
-<img scr="https://github.com/Shvalya/CalculaterForYandex/assets/143712298/82ad06d6-4fe9-4897-8e65-67dec85337e4" width="1080" height="720">
+<img scr="Untitled-2024-02-18-2223.png" width="1080" height="720">
