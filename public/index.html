@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <meta name="author" content="КОМОКЕВПАТИЙ">
+      <meta name="description" content="тест">
+      <meta name="keywords" content="тест, пробный">
+      <title>Калькулятор</title>
+
+      <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+      <div id="header">
+      Калькулятор сложных выражений
+    </div>
+    <br><br><br><br>
+<div class="container">
+  <div class="tab">
+    <input checked id="tab-btn-1" name="tab-btn" type="radio" class="content-button" class="content-button" value="">
+    <label for="tab-btn-1" class="content-button">Калькулятор</label>
+    <input id="tab-btn-2" name="tab-btn" type="radio" class="content-button" class="content-button" value="">
+    <label for="tab-btn-2" class="content-button">Настройки калькулятора</label>
+    <div class="tab-content" id="content-1">
+      <div>
+        <input type="text" id="input-number" value=""><button class="input-number-button" onclick="onClickButtonFirst()">Ввести выражение</button><br>
+        <ul id="list-result">
+
+        </ul>
+      </div>
+    </div>
+    <div class="tab-content" id="content-2">
+      <div class="ps-test">операция + за отрезок времени</div>
+      <input type="text" class="input-number" value="200"><button class="input-number-button" type="button" name="button">ввести параметр</button><br><br>
+      <div class="ps-test">операция - за отрезок времени</div>
+      <input type="text" class="input-number" value="200"><button class="input-number-button" type="button" name="button">ввести параметр</button><br><br>
+      <div class="ps-test">операция * за отрезок времени</div>
+      <input type="text" class="input-number" value="200"><button class="input-number-button" type="button" name="button">ввести параметр</button><br><br>
+      <div class="ps-test">операция / за отрезок времени</div>
+      <input type="text" class="input-number" value="200"><button class="input-number-button" type="button" name="button">ввести параметр</button><br><br>
+      <div class="ps-test">время отображения интактного сервера</div>
+      <input type="text" class="input-number" value="200"><button class="input-number-button" type="button" name="button">ввести параметр</button><br><br>
+  </div>
+<script src="main.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</body>
+
+</html>>

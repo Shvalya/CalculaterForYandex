@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+#header {
+  width: 120%;
+  height: 80px;
+  background-color: #f5bb64;
+  text-align: left;
+  margin: -10px;
+  padding-left: 20px;
+  padding-top: 30px;
+  color: black;
+  font-size: 30px;
+  font-family: "montserrat";
+  font-weight: 500;
+}
+
+.content-button {
+  font-family: "montserrat";
+  font-weight: 400;
+  display: inline-block;
+  margin-left: 50px;
+  font-size: 25px;
+}
+
+
+
+
+.content-button:hover {
+  color: #f5bb64;
+}
+
+.input-number-button {
+  margin-left: 20px;
+  width: 140px;
+  height: 34px;
+
+}
+
+#input-number {
+  width: 180px;
+  height: 40px;
+}
+
+.input-number {
+  width: 180px;
+  height: 40px;
+}
+
+.container {
+    margin: 1rem;
+    padding: 1.5rem;
+    border-radius: 0.375rem;
+  }
+
+.tab {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.tab > input[type="radio"] {
+  display: none;
+}
+
+.tab-content {
+  display: none;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+#tab-btn-1:checked~#content-1,
+#tab-btn-2:checked~#content-2,
+#tab-btn-3:checked~#content-3 {
+  display: block;
+}
+
+.tab > label {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  cursor: pointer;
+  transition: color .15s ease-in-out, border-color .15s ease-in-out;
+  color: #f5bb64;
+  background: 0 0;
+  border-bottom: 0.125rem solid transparent;
+}
+
+.tab > label:hover {
+  border-bottom-color: #f5bb64;
+}
+
+.tab > input[type="radio"]:checked + label {
+  cursor: default;
+  font-weight: bold;
+  color: #212529;
+  border-bottom-color: #212529;
+}
+
+.ps-test {
+  font-size: 10px;
+  font-family: "montserrat";
+  font-weight: 500;
+}
