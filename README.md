@@ -11,12 +11,14 @@
 в вкладке настройка калькулятора вы можете настроись скорость выполнения примеров
 
 пример использования:
+
 https://github.com/Shvalya/CalculaterForYandex/assets/143712298/cac86301-a549-497b-9340-8ea25443fdf0
 
 
 
 Если exe не работает, то надо забилдить, извини но какая у тебя ПО я не знаю
 тг: @ilia_leonid
+
 Схема работы:
 
 ![Untitled-2024-02-18-2223](https://github.com/Shvalya/CalculaterForYandex/assets/143712298/12c70d7c-bf4a-4697-8124-cddf95824b14)
