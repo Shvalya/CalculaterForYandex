@@ -22,5 +22,5 @@ https://github.com/Shvalya/CalculaterForYandex/assets/143712298/cac86301-a549-49
 
 Схема работы:
 
-https://excalidraw.com/#json=TN1dXn2vNWF_dHFnt0Kk6,7GuSx76LGdkXzBQmbgxfdQ
+![Untitled-2024-02-18-2223]([https://github.com/Shvalya/CalculaterForYandex/assets/143712298/12c70d7c-bf4a-4697-8124-cddf95824b14](https://excalidraw.com/#json=TN1dXn2vNWF_dHFnt0Kk6,7GuSx76LGdkXzBQmbgxfdQ))
 
