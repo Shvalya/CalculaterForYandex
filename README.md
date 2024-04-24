@@ -15,7 +15,7 @@
 
 пример использования:
 
-<video src='zapis.mp4' width=180/>
+[zapis.mp4](https://watch.wave.video/Oz8JddDvwRxjHSpu)
 
 
 
