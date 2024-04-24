@@ -15,7 +15,7 @@
 
 пример использования:
 
-<video src='https://watch.wave.video/Oz8JddDvwRxjHSpu' width=180/>
+https://github.com/Shvalya/CalculaterForYandex/zapis.mp4
 
 
 Если exe не работает, то надо забилдить, извини но какая у тебя ПО я не знаю
