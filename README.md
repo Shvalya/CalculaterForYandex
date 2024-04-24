@@ -15,7 +15,7 @@
 
 пример использования:
 
-<video src='zapis.mp4'>
+[![Видео пример](https://github.com/CalculaterForYandex/raw/master/zapis.mp4)](https://github.com/CalculaterForYandex/raw/master/zapis.mp4)
 
 Если exe не работает, то надо забилдить, извини но какая у тебя ПО я не знаю
 тг: @ilia_leonid
