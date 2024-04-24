@@ -15,8 +15,7 @@
 
 пример использования:
 
-<video width="630" height="300" src="https://watch.wave.video/Oz8JddDvwRxjHSpu"></video>
-
+<video src='https://watch.wave.video/Oz8JddDvwRxjHSpu' width=180/>
 
 
 Если exe не работает, то надо забилдить, извини но какая у тебя ПО я не знаю
