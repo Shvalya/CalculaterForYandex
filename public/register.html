@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Калькулятор</title>
+
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="header">
+        Калькулятор сложных выражений
+
+    </div>
+    
+    <div class="register-div">
+        <div class="text-input" style="margin-top: 20%;">Введите логин</div> 
+        <input type="text" id="register-login">
+        <div class="text-input" style="margin-top: 5%;">Введите пароль</div> 
+        <input type="text" id="register-password"><p></p>
+        <button id="register-button" onclick="registerButton()" class="user-button">Зарегестрироваться</button><p></p>
+        <a id="register-error-text"></a><br>
+        <a href="http://localhost:8080/entry" class="a-text">Уже зарегестрированны?</a>
+    </div>
+
+
+    <script src="main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</body>
+</html>
