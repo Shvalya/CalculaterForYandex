@@ -15,7 +15,7 @@
 
 пример использования:
 
-![Untitled-2024-02-18-2223](zapis.mp4)
+<video src='zapis.mp4' width=180/>
 
 
 
