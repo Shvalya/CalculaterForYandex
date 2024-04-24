@@ -15,7 +15,7 @@
 
 пример использования:
 
-https://github.com/Shvalya/CalculaterForYandex/assets/143712298/cac86301-a549-497b-9340-8ea25443fdf0
+![Untitled-2024-02-18-2223]()
 
 
 
@@ -24,5 +24,5 @@ https://github.com/Shvalya/CalculaterForYandex/assets/143712298/cac86301-a549-49
 
 Схема работы:
 
-![Untitled-2024-02-18-2223](2024-04-22_13-12-22.png)
+![Untitled-2024-02-18-2223](Запись экрана 2024-04-23 в 22.47.51.mov)
 
