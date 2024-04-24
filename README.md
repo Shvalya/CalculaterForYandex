@@ -15,7 +15,7 @@
 
 пример использования:
 
-<video src="https://watch.wave.video/Oz8JddDvwRxjHSpu"></video>
+<video width="630" height="300" src="https://watch.wave.video/Oz8JddDvwRxjHSpu"></video>
 
 
 
