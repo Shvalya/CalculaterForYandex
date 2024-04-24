@@ -15,7 +15,7 @@
 
 пример использования:
 
-https://watch.wave.video/Oz8JddDvwRxjHSpu
+<video src="https://watch.wave.video/Oz8JddDvwRxjHSpu"></video>
 
 
 
