@@ -15,7 +15,7 @@
 
 пример использования:
 
-![Untitled-2024-02-18-2223](https://watch.wave.video/Oz8JddDvwRxjHSpu)
+https://watch.wave.video/Oz8JddDvwRxjHSpu
 
 
 
