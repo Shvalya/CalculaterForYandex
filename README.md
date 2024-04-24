@@ -15,7 +15,7 @@
 
 пример использования:
 
-[![]](https://github.com/CalculaterForYandex/zapis.mp4)
+https://github.com/Shvalya/CalculaterForYandex/assets/143712298/d92ea7da-7ea6-4bd3-811f-a364b0c3d334
 
 Если exe не работает, то надо забилдить, извини но какая у тебя ПО я не знаю
 тг: @ilia_leonid
